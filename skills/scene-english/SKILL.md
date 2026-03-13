@@ -257,7 +257,61 @@ Next steps:
 7. Expand scene - Variants or follow-up scenarios
 8. New input - New scene / word / phrase / sentence
 9. My library - Browse all archived scenes
+10. Practice - Back translation / Slot filling / Real deployment
 ```
+
+---
+
+## Practice Methods
+
+The skill doesn't just generate content — it supports active practice loops that turn passive reading into real acquisition.
+
+### Back Translation (回译法)
+
+The most effective method for users who already have strong scene familiarity. The user doesn't need to learn *what* to say — only *how* to say it in English. This makes back translation extremely efficient: zero cognitive load on content, pure focus on expression.
+
+**Flow:**
+
+```
+Archived English → User translates to Chinese (or uses own understanding)
+     → Close the archive
+          → Translate back to English from Chinese
+               → Compare with archive → Only memorize the GAPS
+```
+
+The key is the last step: **only focus on the delta** — the sentences you couldn't produce. No need to re-study the whole scene. This naturally targets your weakest spots with minimal wasted effort.
+
+When user requests back translation practice (e.g., "练习", "回译", "practice"):
+
+1. Load the archived scene
+2. Present **only the Chinese translation** of the dialogue/email
+3. Ask the user to write their English version
+4. After user submits, show the original English side-by-side
+5. Highlight the differences and explain why the archived version is more natural/idiomatic
+
+### Slot Filling (变量填充)
+
+For drilling sentence patterns with real personal data. Every key sentence has replaceable slots:
+
+```
+"We're looking at [a delivery window of 4-6 weeks]."
+                   [500 pcs for the first order]
+                   [a 5% cost reduction this year]
+```
+
+When user wants slot filling practice:
+1. Present core sentence patterns from the archived scene with empty slots
+2. Ask user to fill with their own real data
+3. Check if the filled version is natural and correct
+
+### Real Deployment (实战应用)
+
+The ultimate practice: use archived content in real work/life. When user mentions they have a real situation coming up (e.g., "I need to write an RFQ email tomorrow"):
+1. Load the matching archived scene
+2. Help customize with their actual data (real part numbers, real supplier name, real quantities)
+3. Polish into a send-ready version
+
+One real email sent = 100 passive reviews.
 
 ---
 
